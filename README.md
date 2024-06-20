@@ -12,7 +12,7 @@ Replaces the texture of Totem of Undying with Among Us character
 
 ## EnderTurtle
 Changes textures of Enderman and Turtle
-![[Preview with shaders.png]]
+![Preview - EnderTurtle](Texturepacks/Cypo%20-%20EnderTurtle/Preview%20with%20shaders.png)
 
 ## Plants
 Adds red circle to the top of full-grown plants, making them more visible
