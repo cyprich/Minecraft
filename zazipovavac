@@ -1,0 +1,9 @@
+#!/bin/bash
+
+cd ~/Minecraft
+declare -a files
+files+=(AkuAkuTotem All AmogusTotem EnderTurtle Plants Sugarcane Unsuspicious)
+
+for i in ${files[@]}; do
+	zip "zip/CypoPack-$i".zip "CypoPack-$i"/*
+done
