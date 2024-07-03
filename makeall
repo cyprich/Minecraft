@@ -1,7 +1,7 @@
 #!/bin/bash
 
 declare -a files
-files+=(AkuAkuTotem AmogusTotem EnderTurtle Plants Sugarcane Unsuspicious)
+files+=(AkuAkuTotem AmogusTotem ClearScaffolding EnderTurtle NoPumpkinBlur Plants Sugarcane Unsuspicious)
 
 cd ~/Minecraft
 rm -r CypoPack-All/assets

@@ -2,8 +2,12 @@
 
 cd ~/Minecraft
 declare -a files
-files+=(AkuAkuTotem All AmogusTotem EnderTurtle Plants Sugarcane Unsuspicious)
+files+=(AkuAkuTotem All AmogusTotem ClearScaffolding EnderTurtle NoPumpkinBlur Plants Sugarcane Unsuspicious)
 
 for i in ${files[@]}; do
-	zip "zip/CypoPack-$i".zip "CypoPack-$i"/*
+	cd "./CypoPack-$i"
+	#zip "zip/CypoPack-$i".zip "CypoPack-$i"/"*"
+	zip "CypoPack-$i".zip *
+	mv "CypoPack-$i".zip ../zip
+	cd ..
 done
