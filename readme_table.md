@@ -1,7 +1,3 @@
-# Minecraft Resource Packs
-
-Texture Packs that I created. Don't expect much :)
-
 | Name | Description | Preview | Download |
 | --- | --- | --- | --- |
 | All |  All packs combined | - | [Download All](https://github.com/cyprich/Minecraft/releases/download/v1.1.0/CypoPack-All.zip) |
@@ -13,22 +9,3 @@ Texture Packs that I created. Don't expect much :)
 | Plants |  Adds colored highlight to the top of full-grown plants, making them easier to spot | ![](preview/plants.png) | [Download Plants](https://github.com/cyprich/Minecraft/releases/download/v1.1.0/CypoPack-Plants.zip) |
 | Sugarcane |  Makes sugarcane less dense, making it easier to see dropped sugarcane while harvesting | ![](preview/sugarcane.png) | [Download Sugarcane](https://github.com/cyprich/Minecraft/releases/download/v1.1.0/CypoPack-Sugarcane.zip) |
 | Unsuspicious |  Adds a big exclamation mark (!) to *Suspicious Sand* and *Suspicious Gravel*, making it a lot easier to see | ![](preview/unsuspicious.png) | [Download Unsuspicious](https://github.com/cyprich/Minecraft/releases/download/v1.1.0/CypoPack-Unsuspicious.zip) |
-
-## Usage
-
-1. Download desired Texture Pack from [Releases page](https://github.com/cyprich/Minecraft/releases/latest)
-2. Move downloaded Texture Pack to Minecraft's _resourcepacks_ folder. **Do not unzip!**
-   - On Windows - `%appdata%/.minecraft/resourcepacks`
-   - On Linux - `~/.minecraft/resourcepacks`
-3. In Minecraft settings, go to _Resource Packs_ tab and enable your new Texture Pack
-4. Enjoy!
-
-## Contact
-
-If you have problems using these Texture Packs or ideas/requests for new Texture Pack, please contact me :)
-
-| Email     | [cypooriginal@gmail.com](mailto:cypooriginal@gmail.com)                      |
-| --------- | ---------------------------------------------------------------------------- |
-| Instagram | [@bordel.pruser.margarin](https://www.instagram.com/bordel.pruser.margarin/) |
-
-You can also [create new issue](https://github.com/cyprich/Minecraft/issues/new/choose) if you have GitHub account
