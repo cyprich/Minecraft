@@ -12,10 +12,13 @@ def main():
 
     for name in dirs:
         with zipfile.ZipFile(f"zip/{name}.zip", 'w') as zfile:
+            written_files = set()
             for root, _, files in os.walk(name):
                 for file in files:
-                    file_path = os.path.join(root, file)
-                    zfile.write(file_path, arcname=file_path)
+                    if file not in written_files:
+                        file_path = os.path.join(root, file)
+                        zfile.write(file_path, arcname=os.path.relpath(file_path, start=name))
+                        written_files.add(file)
 
     generate_releases_table()
 
