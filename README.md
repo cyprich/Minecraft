@@ -1,6 +1,6 @@
 # Minecraft Resource Packs
 
-Texture Packs that I created. Don't expect much :)
+Resource Packs that I created. Don't expect much :)
 
 | Name | Description | Preview | Download |
 | --- | --- | --- | --- |

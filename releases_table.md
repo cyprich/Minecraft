@@ -1,11 +1,11 @@
-| File name | SHA-1 Checksum | SHA-256 Checksum |
-| --- | --- | --- |
-| CypoPack-AkuAkuTotem.zip | `3d83723566d07afa1f0a31e92bc28be288b45834` | `3fa560b094a025a8b43fab7092a0ccd6d1fe6516e217b1026c4da0fd0cb8ab00` |
-| CypoPack-All.zip | `263c65a55e7c5dee149930cdfa3a6e2309eb0f78` | `109fb3459b64a4cbe31a348fcf1c541e797fa371fb92da346d216d716d76b77d` |
-| CypoPack-AmogusTotem.zip | `25a5216cd5909827a2d281abb32eefea54870aa6` | `f152400958e9d8d94a62cd0eacd12fd62ed58cbb687cc38871d2f592c5d119fe` |
-| CypoPack-ClearScaffolding.zip | `bc4fa788b6bc81101c00ef910487d298d80bea45` | `b39c7de8d85029736742b6d3864548f7955ab9e94be6f81068192d4148426404` |
-| CypoPack-EnderTurtle.zip | `39ab5762b218ad18e92e4fbbec04fabeffaf16dd` | `5304671696b62c1249cbc4199d581bf8f7aaa5cc0f6fdd6d8be1810ea4444601` |
-| CypoPack-NoPumpkinBlur.zip | `5faf8b85ae3e1c833f61941e4c486a0f5aac1ca5` | `d832ee05d8e6e9bf1c2c692162b0e44d8f750aaf70410c21483651b782e15774` |
-| CypoPack-Plants.zip | `0600d8d55d448dd3a6b8ccd2f54dd0632267f5b4` | `bd52efd9d5dcaaf3ed5aeccb1e1fca913188fff8106c6025609212361d6c9677` |
-| CypoPack-Sugarcane.zip | `92589f8fe359ba93847be53fb4d3efa3702fce5c` | `156f2d418131e57d319fbb83fac8d0ef9c1553e94a2af4e06bb41178b26214cc` |
-| CypoPack-Unsuspicious.zip | `7c6bac1edcbb814ea0ac394f66e41ed94b89079a` | `a72d8e87767108e4b1a9dd7885199680fce6008114a6dd851af69d9a724696e8` |
+| Resource Pack | Download link | SHA-1 Checksum | SHA-256 Checksum |
+| --- | --- | --- | --- |
+| AkuAkuTotem | [Download AkuAkuTotem](https://github.com/cyprich/Minecraft/releases/download/v1.1.0/CypoPack-AkuAkuTotem.zip) | `3d83723566d07afa1f0a31e92bc28be288b45834` | `3fa560b094a025a8b43fab7092a0ccd6d1fe6516e217b1026c4da0fd0cb8ab00` |
+| All | [Download All](https://github.com/cyprich/Minecraft/releases/download/v1.1.0/CypoPack-All.zip) | `263c65a55e7c5dee149930cdfa3a6e2309eb0f78` | `109fb3459b64a4cbe31a348fcf1c541e797fa371fb92da346d216d716d76b77d` |
+| AmogusTotem | [Download AmogusTotem](https://github.com/cyprich/Minecraft/releases/download/v1.1.0/CypoPack-AmogusTotem.zip) | `25a5216cd5909827a2d281abb32eefea54870aa6` | `f152400958e9d8d94a62cd0eacd12fd62ed58cbb687cc38871d2f592c5d119fe` |
+| ClearScaffolding | [Download ClearScaffolding](https://github.com/cyprich/Minecraft/releases/download/v1.1.0/CypoPack-ClearScaffolding.zip) | `bc4fa788b6bc81101c00ef910487d298d80bea45` | `b39c7de8d85029736742b6d3864548f7955ab9e94be6f81068192d4148426404` |
+| EnderTurtle | [Download EnderTurtle](https://github.com/cyprich/Minecraft/releases/download/v1.1.0/CypoPack-EnderTurtle.zip) | `39ab5762b218ad18e92e4fbbec04fabeffaf16dd` | `5304671696b62c1249cbc4199d581bf8f7aaa5cc0f6fdd6d8be1810ea4444601` |
+| NoPumpkinBlur | [Download NoPumpkinBlur](https://github.com/cyprich/Minecraft/releases/download/v1.1.0/CypoPack-NoPumpkinBlur.zip) | `5faf8b85ae3e1c833f61941e4c486a0f5aac1ca5` | `d832ee05d8e6e9bf1c2c692162b0e44d8f750aaf70410c21483651b782e15774` |
+| Plants | [Download Plants](https://github.com/cyprich/Minecraft/releases/download/v1.1.0/CypoPack-Plants.zip) | `0600d8d55d448dd3a6b8ccd2f54dd0632267f5b4` | `bd52efd9d5dcaaf3ed5aeccb1e1fca913188fff8106c6025609212361d6c9677` |
+| Sugarcane | [Download Sugarcane](https://github.com/cyprich/Minecraft/releases/download/v1.1.0/CypoPack-Sugarcane.zip) | `92589f8fe359ba93847be53fb4d3efa3702fce5c` | `156f2d418131e57d319fbb83fac8d0ef9c1553e94a2af4e06bb41178b26214cc` |
+| Unsuspicious | [Download Unsuspicious](https://github.com/cyprich/Minecraft/releases/download/v1.1.0/CypoPack-Unsuspicious.zip) | `7c6bac1edcbb814ea0ac394f66e41ed94b89079a` | `a72d8e87767108e4b1a9dd7885199680fce6008114a6dd851af69d9a724696e8` |
